@@ -1,3 +1,0 @@
-# MyFirstRepository
-Tutorial Repository
-hello
